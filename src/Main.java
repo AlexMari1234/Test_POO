@@ -6,6 +6,8 @@ class Engine {
     private int pistons;
     private String shape;
 
+    private int age;
+
     public Engine() {
 
     }
