@@ -6,6 +6,11 @@ class Engine {
     private int pistons;
     private String shape;
 
+    public Engine() {
+
+    }
+
+
     public Engine(int pistons, String shape) {
         this.pistons = pistons;
         this.shape = shape;
