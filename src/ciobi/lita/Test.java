@@ -6,4 +6,8 @@ public class Test {
     private String getOwner() {
         return owner;
     }
+
+    private String setOwner(String owner) {
+        this.owner = owner;
+    }
 }

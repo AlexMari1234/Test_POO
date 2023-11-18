@@ -36,4 +36,8 @@ public class Deiu {
         return "safsaf";
     }
 
+    public int return5() {
+        return 5;
+    }
+
 }
