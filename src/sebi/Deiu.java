@@ -27,4 +27,9 @@ public class Deiu {
     public void daba() {
         System.out.println(5);
     }
+
+    public void afag() {
+        System.out.println("aggaag");
+    }
+
 }
