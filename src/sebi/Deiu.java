@@ -23,4 +23,8 @@ public class Deiu {
     public int getFollowers() {
         return followers;
     }
+
+    public void daba() {
+        System.out.println(5);
+    }
 }
