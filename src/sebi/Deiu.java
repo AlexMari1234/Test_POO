@@ -14,4 +14,8 @@ public class Deiu {
     public void la_misto() {
         System.out.println("ana are mere");
     }
+
+    public void afag() {
+        System.out.println("aggaag");
+    }
 }
