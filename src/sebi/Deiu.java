@@ -10,4 +10,8 @@ public class Deiu {
     public void setAge(int age) {
         this.age = age;
     }
+
+    public void la_misto() {
+        System.out.println("ana are mere");
+    }
 }
