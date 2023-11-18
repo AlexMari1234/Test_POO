@@ -28,4 +28,8 @@ public class Deiu {
         System.out.println("aggaag");
     }
 
+    public String toString() {
+        return "safsaf";
+    }
+
 }
