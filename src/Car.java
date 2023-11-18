@@ -10,6 +10,6 @@ public class Car {
     }
 
     public void setName() {
-        this.name = "sfafasasf";
+        this.name = "ana";
     }
 }

@@ -40,4 +40,8 @@ public class Deiu {
         return 6;
     }
 
+    public int return5() {
+        return 5;
+    }
+
 }
